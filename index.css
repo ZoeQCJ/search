@@ -1,0 +1,44 @@
+
+
+.form{
+    width: 80%;
+    margin: 100px auto;
+    height: 400px;
+    text-align: center;
+}
+.serach{
+    font-size: 18px;
+    color: brown;
+}
+.serach input{
+    border: 1px solid goldenrod;
+    /* height:23px; */
+    padding: 5px 15px;
+    width: 135px;
+    outline: none;
+    /* padding-left: 15px; */
+    box-sizing: border-box;
+}
+table{
+    border: 1px solid goldenrod;
+    width: 80%;
+    text-align: center;
+    border-collapse:collapse;
+    margin:30px auto 0;
+    color: brown;
+}
+thead{
+    background: peru;
+}
+th,td{
+    border: 1px solid goldenrod;  
+    padding: 10px 0;
+    
+}
+button{
+    padding:5px 15px;
+    border: 0;
+    outline: none;
+    background: cadetblue;
+}
+
